@@ -1,0 +1,22 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "description": "lerna-project",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghingis/lerna-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghingis/lerna-project/issues"
+  },
+  "homepage": "https://github.com/ghingis/lerna-project#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
